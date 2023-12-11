@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Nova+Square&family=Nunito&family=Rubik&family=Ubuntu&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body{
+    font-family: 'Rubik', sans-serif;
+}
